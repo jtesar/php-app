@@ -1,6 +1,8 @@
 <?php
  $servername = $_ENV["MYMARIADB_SERVICE_HOST"];
- $servername = "mymariadb.lamp.svc.cluster.local";
+
+ $servername = "mymariadb.sourcetoimage.svc.cluster.local";
+
  $serviceport = $_ENV["MYMARIADB_SERVICE_PORT"];
  $username = "jtesar";
  $password = "redhat";
