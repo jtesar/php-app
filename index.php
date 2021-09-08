@@ -23,7 +23,4 @@
 	    echo "0 results";
   }
   $conn->close();
-
-  echo "New version\n"
-
 ?>
