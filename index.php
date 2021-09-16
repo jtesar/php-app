@@ -1,6 +1,6 @@
 <?php
- $servername = "mariadb.s2i-jtesar.svc.cluster.local"
- $serviceport = "3306"
+ $servername = "mariadb.s2i-jtesar.svc.cluster.local";
+ $serviceport = "3306";
  $username = "jtesar";
  $password = "redhat";
  $dbname = "db";
