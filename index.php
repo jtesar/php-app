@@ -25,5 +25,4 @@
 	    echo "0 results";
   }
   $conn->close();
-  echo "<br> New Version"; 
 ?>
