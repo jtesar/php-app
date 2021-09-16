@@ -1,6 +1,6 @@
 <?php
- $servername = $_ENV["MYMARIADB_SERVICE_HOST"];
- $serviceport = $_ENV["MYMARIADB_SERVICE_PORT"];
+ $servername = $_ENV["MARIADB_SERVICE_HOST"];
+ $serviceport = $_ENV["MARIADB_SERVICE_PORT"];
  $username = "jtesar";
  $password = "redhat";
  $dbname = "db";
