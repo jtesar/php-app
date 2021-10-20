@@ -1,5 +1,5 @@
 <?php
- $servername = $_ENV["MARIADB_SERVICE_HOST"];
+ $servername = "mariadb.jtesar-s2i.svc.cluster.local"
  $serviceport = "3306";
  $username = "jtesar";
  $password = "redhat";
