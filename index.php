@@ -1,6 +1,6 @@
 
   
 <?php
-  echo "Hello World from PHP\n";
-  echo "Hello World from PHP\n";
+  echo "Hello World<br/>";
+  echo "This is a PHP app<br/>
 ?>
