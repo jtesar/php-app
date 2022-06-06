@@ -1,4 +1,4 @@
 <?php
-   $lines = system('curl www.root.cz');
+   $lines = system('curl https://www.root.cz');
    echo $lines;
 ?>
