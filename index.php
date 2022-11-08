@@ -1,7 +1,7 @@
 
   
 <?php
- $servername = "mysql.jtesar-s2i.svc.cluster.local";
+ $servername = "mariadb.jtesar-s2i.svc.cluster.local";
  $serviceport = "3306";
  $username = "jtesar";
  $password = "redhat";
