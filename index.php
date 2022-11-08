@@ -1,5 +1,3 @@
-
-  
 <?php
  $servername = "mysql.jtesar-s2i.svc.cluster.local";
  $serviceport = "3306";
