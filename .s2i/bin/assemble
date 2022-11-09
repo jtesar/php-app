@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo PRE ORIGINAL
+/usr/libexec/s2i/assemble
+echo POST ORIGINAL
