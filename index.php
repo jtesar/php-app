@@ -21,5 +21,6 @@
   else {
 	    echo "0 results";
   }
+  echo "New version";
   $conn->close();
 ?>
