@@ -4,7 +4,8 @@
 
 <h1>
 <?php
-echo "Hello World!";
+echo "Hello World!<br/>";
+echo "This is a new version"
 ?>
 </h1>
 <br/>
