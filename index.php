@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>
 <?php
-echo "KO";
+echo "Hello World!";
 ?>
+</h1>
+<br/>
+</body>
+</html>
