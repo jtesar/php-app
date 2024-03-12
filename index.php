@@ -4,8 +4,7 @@
 
 <h1>
 <?php
-echo "Hello World1!";
-deiudheudheu
+echo "Hello World1!"
 ?>
 </h1>
 <br/>
