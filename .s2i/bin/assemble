@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo Stuff before the standard build
+
+/usr/libexec/s2i/assemble
+
+echo Stuff after the standard build
